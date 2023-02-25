@@ -10,7 +10,6 @@ require (
 	github.com/astaxie/beego v1.12.2
 	github.com/avast/retry-go v2.6.0+incompatible
 	github.com/aymerick/raymond v2.0.2+incompatible // indirect
-	github.com/bazelbuild/bazel-gazelle v0.21.1 // indirect
 	github.com/bwmarrin/snowflake v0.3.0
 	github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd // indirect
 	github.com/crgimenes/goconfig v0.0.0-20190307175850-3b829fccb8ce
@@ -43,7 +42,6 @@ require (
 	github.com/mattn/go-colorable v0.1.7 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.3 // indirect
 	github.com/mitchellh/mapstructure v1.1.2
-	github.com/natefinch/lumberjack v2.0.0+incompatible // indirect
 	github.com/opentracing-contrib/go-gin v0.0.0-20190301172248-2e18f8b9c7d4
 	github.com/opentracing/opentracing-go v1.1.1-0.20190913142402-a7454ce5950e
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.4.5
@@ -70,7 +68,7 @@ require (
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	golang.org/x/net v0.0.0-20200625001655-4c5254603344
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sys v0.0.0-20200625212154-ddb9806d33ae // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/tools v0.0.0-20200714190737-9048b464a08d // indirect
 	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
 	google.golang.org/appengine v1.5.0 // indirect
